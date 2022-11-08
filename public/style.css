@@ -1,0 +1,17 @@
+.main-wrapper {
+    height: 100vh;
+}
+#url_field {
+    min-width: 450px;
+}
+.error_msg {
+    color: red;
+}
+.success_msg {
+    color: green;
+}
+.heading {
+    margin-top: 100px;
+    margin-bottom: -200px;
+    text-align: center;
+}

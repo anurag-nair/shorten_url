@@ -37,9 +37,6 @@ First we need to create the `db` directory where the database files will live in
 ### Run the Application
 
 The project is preconfigured with a simple development web server. The simplest way to start this server is:
-
-```
-In root folder start API server
 ```
 npm start
 ```
@@ -48,7 +45,6 @@ Navigate to the public folder
 cd public
 ```
 Run index.html in browser
-```
 
 ### Project Structure
 
